@@ -270,37 +270,6 @@ Uygulama hem açık hem de koyu tema destekler ve sistem teması ile otomatik ol
 
 ---
 
-## 🚀 Kurulum
-
-### **Sistem Gereksinimleri**
-```
-iOS 17.6+ • Xcode 15.0+ • Swift 5.9+
-```
-
-### **1️⃣ API Anahtarı Alın**
-<a href="https://www.themoviedb.org/settings/api" target="_blank">
-  <img src="https://img.shields.io/badge/TMDB%20API-Anahtar%20Al-01B4E4?style=for-the-badge&logo=themoviedatabase" alt="TMDB API">
-</a>
-
-### **2️⃣ Projeyi Klonlayın**
-```bash
-git clone https://github.com/HsynBrnQuenjou/TechIstabul_SwiftDersleri.git
-```
-
-### **3️⃣ API Anahtarını Ekleyin**
-`Info.plist` dosyasına API anahtarınızı ekleyin:
-```xml
-<key>TMDB_API_KEY</key>
-<string>YOUR_API_KEY_HERE</string>
-```
-
-### **4️⃣ Çalıştırın**
-```bash
-# Xcode'da ⌘+R ile çalıştırın
-```
-
----
-
 ## 📂 Proje Yapısı
 
 ```
